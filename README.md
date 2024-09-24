@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Petr Ambrož</h1>
-<h3 align="center">I'm a computer science student at Charles University in Prague currently in the first year.</h3>
+<h1 align="center">Hi, I'm Petr Ambrož</h1>
+<h3 align="center">I'm a computer science student at Charles University in Prague currently in the second year.</h3>
 
-- 🌱 I’m currently learning **C++, C#, Linux administration and bash scripting.**
+- 🌱 I’m currently learning **C++, JavaScript, PHP and SQL databases.**
 
 - 👨‍💻 All of my projects are available here on GitHub.
 
